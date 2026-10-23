@@ -1,7 +1,7 @@
 package introducao.java;
 import java.util.Scanner;
 
-public class CalcValores {
+public class CalcValoresComIf {
     void main() {
 
         Scanner scanner = new Scanner(System.in);
